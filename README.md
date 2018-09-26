@@ -6,6 +6,8 @@ Try it here: https://1qk1.github.io/Catverturer-Template/
 Technologies Used
 
 - HTML/CSS
+- SCSS
+- node-sass
 - Materialize
 - Font Awesome
 - AOS (Animate on Scroll library)
