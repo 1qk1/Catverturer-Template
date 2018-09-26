@@ -5503,7 +5503,7 @@ header {
   justify-content: center;
   position: relative;
   margin-bottom: 6rem;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/headercat.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/headercat.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5618,7 +5618,7 @@ header {
   position: relative;
   margin-bottom: 6rem;
   text-align: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/joinuscat.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/joinuscat.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -5715,7 +5715,7 @@ header {
 
 .counter {
   padding: 4rem 0;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/countercat.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/countercat.jpg");
   background-position: center 40%;
   background-repeat: no-repeat;
   background-size: cover;
