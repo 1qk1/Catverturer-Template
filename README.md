@@ -3,9 +3,11 @@ Cat themed bootstrap template replica https://graygrids.com/item/adventurer-one-
 
 Try it here: https://1qk1.github.io/Catverturer-Template/
 
-Technologies Used
+Technologies/libraries/packages Used
 
 - HTML/CSS
+- SCSS
+- node-sass
 - Materialize
 - Font Awesome
 - AOS (Animate on Scroll library)
